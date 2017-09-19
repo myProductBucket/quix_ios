@@ -1,0 +1,156 @@
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "17W-U4-fhD"; */
+"17W-U4-fhD.text" = "Süre";
+
+/* Class = "UILabel"; text = "CorrectCount"; ObjectID = "1wQ-Kf-dek"; */
+"1wQ-Kf-dek.text" = "Doğru Sayısı";//-------------
+
+/* Class = "UILabel"; text = "50:00 min."; ObjectID = "2yY-zA-HO0"; */
+"2yY-zA-HO0.text" = "50:00 min.";
+
+/* Class = "UITextField"; placeholder = "Quiz Time(Optional)"; ObjectID = "4Ej-sR-L8w"; */
+"4Ej-sR-L8w.placeholder" = "Süre giriniz(isteğe bağlı)";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "6uL-Qe-iHf"; */
+"6uL-Qe-iHf.text" = "İstatistik";
+
+/* Class = "UIButton"; normalTitle = "Login as Guest"; ObjectID = "7gV-hP-R8I"; */
+"7gV-hP-R8I.normalTitle" = "Misafir olarak Bağlan";//----------------
+
+/* Class = "UILabel"; text = "Add Quiz"; ObjectID = "8K6-gj-0Lz"; */
+"8K6-gj-0Lz.text" = "Quiz Ekle";
+
+/* Class = "UILabel"; text = "14:18"; ObjectID = "9Nu-tX-gMm"; */
+"9Nu-tX-gMm.text" = "14:18";
+
+/* Class = "UILabel"; text = "Correct Answer"; ObjectID = "ABX-dd-TFw"; */
+"ABX-dd-TFw.text" = "Doğru cevap";
+
+/* Class = "UILabel"; text = "To create quizzes login here"; ObjectID = "APt-Ce-MrY"; */
+"APt-Ce-MrY.text" = "Quiz oluşturmak için buradan girin";
+
+/* Class = "UILabel"; text = "jon Doe"; ObjectID = "AtH-lb-tXY"; */
+"AtH-lb-tXY.text" = "jon Doe";
+
+/* Class = "UILabel"; text = "331"; ObjectID = "E8v-jn-Lmd"; */
+"E8v-jn-Lmd.text" = "331";
+
+/* Class = "UILabel"; text = "14 Quizes"; ObjectID = "F98-R0-sd3"; */
+"F98-R0-sd3.text" = "14 Quizzes";
+
+/* Class = "UILabel"; text = "Login With GooglePlus"; ObjectID = "GFg-EK-kBf"; */
+"GFg-EK-kBf.text" = "GooglePlus ile Bağlan";//------------
+
+/* Class = "UILabel"; text = "Questions Answered"; ObjectID = "JDu-sq-DkB"; */
+"JDu-sq-DkB.text" = "Çözülen Soru";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jip-eS-vRa"; */
+"Jip-eS-vRa.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Quiz Name"; ObjectID = "Jmm-rV-uVA"; */
+"Jmm-rV-uVA.placeholder" = "Quiz adını yazınız";
+
+/* Class = "UILabel"; text = "Start Quiz"; ObjectID = "KSm-G2-e8m"; */
+"KSm-G2-e8m.text" = "Başla";
+
+/* Class = "UILabel"; text = "Student"; ObjectID = "Lsm-eK-taY"; */
+"Lsm-eK-taY.text" = "Öğrenci";
+
+/* Class = "UILabel"; text = "Statistics about your quiz"; ObjectID = "NyO-lc-L3U"; */
+"NyO-lc-L3U.text" = "Quiz İstatistikleri";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OPv-ng-Yhc"; */
+"OPv-ng-Yhc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "PBx-AG-mZH"; */
+"PBx-AG-mZH.text" = "Öğretmen";
+
+/* Class = "UILabel"; text = "94"; ObjectID = "Soe-2d-bRm"; */
+"Soe-2d-bRm.text" = "94";
+
+/* Class = "UIButton"; normalTitle = "Results"; ObjectID = "Tzq-Ez-JwB"; */
+"Tzq-Ez-JwB.normalTitle" = "Sonuçlar";
+
+/* Class = "UILabel"; text = "First Answer"; ObjectID = "U3z-Rx-vAv"; */
+"U3z-Rx-vAv.text" = "İlk cevap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VF6-fO-b7a"; */
+"VF6-fO-b7a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "VrV-2h-OtY"; */
+"VrV-2h-OtY.text" = "Soru";
+
+/* Class = "UILabel"; text = "Average Score"; ObjectID = "WaE-hh-nlf"; */
+"WaE-hh-nlf.text" = "Ortalama Puan";
+
+/* Class = "UILabel"; text = "New Quiz"; ObjectID = "ZFG-Gp-m5Q"; */
+"ZFG-Gp-m5Q.text" = "Yeni Quiz";
+
+/* Class = "UILabel"; text = "Highest Score"; ObjectID = "afV-hl-IEu"; */
+"afV-hl-IEu.text" = "Maksimum Puan";
+
+/* Class = "UILabel"; text = "1741"; ObjectID = "bPJ-wy-YBN"; */
+"bPJ-wy-YBN.text" = "1741";
+
+/* Class = "UILabel"; text = "Login With Facebook"; ObjectID = "bpa-wQ-kZU"; */
+"bpa-wQ-kZU.text" = "Facebook ile Bağlan";//----------
+
+/* Class = "UILabel"; text = "Number of attempt that user found correct answer"; ObjectID = "btC-59-seF"; */
+"btC-59-seF.text" = "Öğrencinin kaçıncı denemede doğru cevabı bulma sayısı";
+
+/* Class = "UILabel"; text = "74"; ObjectID = "cSi-aP-hUo"; */
+"cSi-aP-hUo.text" = "74";
+
+/* Class = "UILabel"; text = "14 Quizes"; ObjectID = "cgZ-a2-d8l"; */
+"cgZ-a2-d8l.text" = "14 Quizzes";
+
+/* Class = "UIButton"; normalTitle = "Result"; ObjectID = "clv-hd-tL8"; */
+"clv-hd-tL8.normalTitle" = "Sonuçlar";
+
+/* Class = "UILabel"; text = "Hey Teacher!"; ObjectID = "dmd-K1-YwZ"; */
+"dmd-K1-YwZ.text" = "Hey Öğretmen!";
+
+/* Class = "UITextField"; placeholder = "Quiz ID"; ObjectID = "iWH-KU-e4x"; */
+"iWH-KU-e4x.placeholder" = "Quiz ID";
+
+/* Class = "UILabel"; text = "Lorem ipsum Dolor Sit"; ObjectID = "kZq-EA-RF5"; */
+"kZq-EA-RF5.text" = "Lorem ipsum Dolor Sit";
+
+/* Class = "UILabel"; text = "20 Questions"; ObjectID = "kss-08-9aa"; */
+"kss-08-9aa.text" = "20 Soru";
+
+/* Class = "UILabel"; text = "Correct %"; ObjectID = "my5-CU-5sO"; */
+"my5-CU-5sO.text" = "Doğru Yüzdesi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o1H-Fo-XZz"; */
+"o1H-Fo-XZz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "pmk-yc-Kxb"; */
+"pmk-yc-Kxb.text" = "Puan";
+
+/* Class = "UILabel"; text = "jon Doe"; ObjectID = "qM6-Vb-0Cj"; */
+"qM6-Vb-0Cj.text" = "jon Doe";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rDE-q8-Tia"; */
+"rDE-q8-Tia.text" = "Name";
+
+/* Class = "UILabel"; text = "% 69"; ObjectID = "rOj-b3-1kb"; */
+"rOj-b3-1kb.text" = "% 69";
+
+/* Class = "UILabel"; text = "Input Quiz ID below"; ObjectID = "s3P-0C-34U"; */
+"s3P-0C-34U.text" = "Quiz kodunu giriniz";
+
+/* Class = "UILabel"; text = "Quizzes Taken"; ObjectID = "t1S-w1-0f3"; */
+"t1S-w1-0f3.text" = "Çözülen Quiz";
+
+/* Class = "UILabel"; text = "Lorem ipsum Dolor Sit"; ObjectID = "uxn-z6-jec"; */
+"uxn-z6-jec.text" = "Lorem ipsum Dolor Sit";
+
+/* Class = "UILabel"; text = "Lorem ipsum Dolor Sit"; ObjectID = "vpV-jv-LkT"; */
+"vpV-jv-LkT.text" = "Lorem ipsum Dolor Sit";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "yAE-k9-T01"; */
+"yAE-k9-T01.text" = "Ana Sayfa";
+
+/* Class = "UILabel"; text = "Average Quiz Time"; ObjectID = "zaX-jH-dQm"; */
+"zaX-jH-dQm.text" = "Ortalama Süre";

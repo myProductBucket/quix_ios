@@ -1,0 +1,15 @@
+//
+//  Quix-PrefixHeader.pch
+//  Quix
+//
+//  Created by Matti Heikkinen on 12/23/15.
+//  Copyright © 2015 self. All rights reserved.
+//
+
+#ifndef Quix_PrefixHeader_pch
+#define Quix_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "global.h"
+#endif /* Quix_PrefixHeader_pch */

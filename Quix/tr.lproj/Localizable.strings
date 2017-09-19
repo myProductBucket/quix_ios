@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+  Quix
+
+  Created by Urban Drescher on 18/1/2016.
+  Copyright © 2016 self. All rights reserved.
+*/
+
+//Start Screen
+"To take quizzes\nlogin here" = "Quiz çözmek için\nburadan girin";
+
+"To create quizzes\nlogin here" = "Quiz oluşturmak için\nburadan girin";
+
+"Dashboard" = "Ana Sayfa";
+
+"Statistic" = "İstatistik";
+
+"Upgrade" = "Satın al";
+
+"Share" = "Paylaş";
+
+"Exit" = "Çıkış";
+
+"Results" = "Sonuçlar";
+
+"Exit App" = "Çıkış";
+
+"Are you sure you want to exit?" = "Çıkmak istediğinizden eminmisiniz?";
+
+"Free Usage Limit Reached" = "Bedava kullanım limitiniz doldu";
+
+"Download this app from here %@" = "";
+
+//Teacher Dashboard
+"Order" = "Sıralama";
+
+"Fill in the Blank" = "Boşluk Doldurma";
+
+"Match" = "Eşleştirme";
+
+"Multiple Choice" = "Çoktan Seçmeli";
+
+"Multiple Select" = "Çoklu Doğru";
+
+"Short Answer/Essay" = "Klasik Soru";
+
+"Single word/phrase answer" = "Eksik kelime yada terimi yazma";
+
+"2~4 choices, 1 correct answer" = "2-4 arası seçenek, sadece 1 doğru cevap";
+
+"2~4 choices, more than 1 correct answer" = "2-4 arası seçenek, 1 veya daha fazla doğru cevap";
+
+"Free-form answer" = "Serbest soru tipi";
+
+"Share this ID(%@) with your students" = "Bu kodu öğrencilerinizle paylaşın. Öğrenciler quizlerinize sadece  bu kod(%@) aracılığıyla ulaşabilirler.";
+
+"Copy to Clipboard" = "Kodu Kopyala";
+
+"Quiz ID copied, now share it with your students" = "Quiz kodu kopyalandı, kodu öğrencilerinizle paylaşabilirsiniz";
+
+"Cancel" = "Iptal Et";//----------
+
+"Attaching Image" = "Foto Ekleme";//----------
+
+"Gallery" = "Galeri";//----------
+
+"Camera" = "Kamera";//----------
+
+"%lu Quizzes" = "%lu Quiz";//-------
+
+"Add Quiz" = "Quiz Ekle";
+
+"Add Question" = "Soru Ekle";
+
+"%@ questions" = "%@ Soru";
+
+"Loading" = "Yükleniyor";//-----------
+
+"OK" = "Tamam";//---------
+
+"New Quiz" = "Yeni Quiz";//-----------
+
+"Write your quiz name here" = "Quiz adını yazınız";
+
+"Time Allocated (optional)" = "Süre giriniz (isteğe bağlı)";
+
+"Write question here" = "Soruyu yazınız";
+
+"Write feedback (Optional)" = "Geri dönüt yazınız (İsteğe bağlı)";
+
+"Update Question" = "Soruyu Güncelle";
+
+"New Question" = "Yeni Soru";
+
+"You can not leave quiz name empty" = "";
+
+"Warning" = "Uyarı";
+
+"Question" = "Soruyu";
+
+"Yes" = "Evet";
+
+"No" = "Hayır";
+
+" Write choice here" = " Seçenek yazınız";
+
+" Write correct answer here" = " Burada doğru cevabı Yazın";
+
+" Write alternative correct answer (Optional)" = "Alternatif Doğru cevabı yazın(İsteğe bağlı)";
+
+" Write feedback about this choice (Optional)" = " Bu seçenek için geri dönüt yazınız(İsteğe bağlı)";
+
+" Write correct match for this choice here (Required)" = " Herbir eşleştirme çifti için eş giriniz (Zorunlu alan)";
+
+"Update Question" = "Soruyu Güncelle";
+
+"Save Question" = "Soruyu Kaydet";
+
+"Proccessing" = "Uygulanıyor";//---------
+
+"Fill at least 2 choices for this question type" = "Bu soru tipi için en az iki seçeneği doldurmalısınız";
+
+"Fill at least 1 answer for this Question" = "Bu soru tipi için en az 1 seçeneği doldurmalısınız";
+
+"Enter a match for each pair" = "Herbir eşleştirme çifti için eş giriniz";
+
+"Set at least one choice as correct answer" = "En az bir seçeneği doğru olarak işaretleyiniz";
+
+"Make sure you entered choices in correct order, that is how app knows the correct answer. Do not worry; the app will shuffle choices on student side" = "Seçenekleri doğru sıralamayla girdiğinizden emin olunuz. Quix app doğru cevabı bu şekilde algılıyor. Endişelenmeyin app seçenekleri öğrencilere karıştırıp gösterecek";
+
+"\nQuiz State" = "\nQuiz İstatistikleri";
+
+"\nAverage Score: %@" = "\nOrtalama Puan: %@";
+
+"\nAverage Time: %@(s)" = "\nOrtalama Süre: %@(s)";
+
+"\nStudent Count: %@\n" = "\nÖğrenci Sayısı: %@\n";//----------
+
+"\nFirst Try Correct:  %%%d" = "\nDoğru Yüzdesi:  %%%d";
+
+"\nSecond Try Correct:  %%%d" = "\nİkinci Denemedeki Doğru Yüzdesi:  %%%d";
+
+"\nThird Try Correct:  %%%d" = "\nÜçüncü Denemedeki Doğru Yüzdesi:  %%%d";
+
+"\n\nThis question needs revisions. A question correctly answered by more than 80% of students, it means the question is too easy." = "\n\nBu soru biraz geliştirilmeli! Eğer öğrencilerin %80 den daha fazlası bir soruyu doğru cevaplamışsa, soru öğrenciler için çok kolay demektir.";
+
+"\n\nThis question needs revisions. A question correctly answered by less than 30% of students, it means the question is too difficult." = "\n\nBu soru biraz geliştirilmeli! Eğer öğrencilerin %30 dan daha azı bir soruyu doğru cevaplamışsa, soru öğrenciler için zor demektir.";
+
+"\n\nThis is a very good question. An average question should be correctly answered by 30~80% of students." = "\n\nBaşarılı bir soru! İyi bir soru öğrencilerin en az %30 u en fazla %80 i tarafından doğru cevaplandırılmalıdır.";
+
+"Question State" = "Soru İstatistikleri";
+
+"\nQuestion State" = "\nSoru İstatistikleri";
+
+"Further Reading" = "Detayli Bilgi";//------------
+
+"Update Quiz" = "Quizi Güncelle";
+
+"Updating" = "Güncelle";//---------------
+
+"Are you sure you want to delete this ?" = "Silmek istediğinizden eminmisiniz?";
+
+"Deleting" = "Sil";//------------
+
+"Delete" = "Sil";
+
+"Edit" = "Düzenle";
+
+"You can not leave question name empty" = "Quiz adını boş bırakamazsınız";
+
+"Netwok problems\nPlease try again!" = "Baglanti hatası";//----------------
+
+//Teacher Results
+"My Exams" = "Sınavlarım";
+
+"Share ID" = "Kodu Paylaş";
+
+"There is no data for this Quiz" = "Bu quiz icin henüz herhangi bir bilgi yoktur";//----------------
+
+"%@\nStudent Name: %@" = "%@\nÖğrenci Adi: %@";//---------
+
+"%@\nScore: %@" = "%@\nPuan: %@";
+
+"%@\nCorrect Count: %@" = "%@\nDoğru Sayısı: %@";
+
+"%@\nTotal Question: %@" = "%@\nToplam Soru: %@";//--------
+
+"Name : %@" = "isim : %@";//-------------
+
+"Time : %d (s)" = "Süre : %d (s)";
+
+"Correct/Total : %d / %d" = "Doğru/Toplam : %d / %d";//-----------
+
+"Question : %@" = "Soru : %@";
+
+"Correct Answer : %@" = "Doğru Cevap : %@";
+
+"Number of attempt that user found correct answer : %ld" = "Öğrencinin kaçıncı denemede doğru cevabı bulma sayısı : %ld";
+
+//Student Upgrade
+"Congratulations!" = "Tebrikler!";
+
+"You unlocked unlimited version of the app, now you can take unlimited quizzes" = "Uygulamanın sınırsız versiyonunu satın aldınız, artık sınırsız quiz çözebilirsiniz";
+
+//Student Dashboard
+"Name" = "Isim";//--------
+
+"For once, please write your full name." = "Sadece bir kez tam isminizi giriniz!";
+
+"Your full name here" = "İsim soyisim giriniz";
+
+"Save" = "Kaydet";
+
+"Enter a valid Full Name" = "Geçerli bir isim soyisim giriniz";
+
+"Wrong" = "Yanlış";//-------
+
+"Wrong answer" = "Yanlış cevap";
+
+"Wrong answer, please try again!" = "Yanlış cevap, lütfen tekrar deneyiniz";
+
+"Correct" = "Correct";
+
+"Correct answer!" = "Doğru cevap, tebrikler!";
+
+"Check" = "Cevapla";
+
+"Feedback" = "dönüt";
+
+"Your results saved and quiz owner can see it now" = "Cevaplarınız kaydedildi, quiz sahibi artık sonuçlarınızı görebilir";//---------
+
+"There is no image for this question!" = "Bu soru icin foto yuklenmemis!";//----------
+
+"Write your answer" = "Cevap giriniz";//------
+
+"%@\nScore: %d" = "%@\nPuan: %d";
+
+"%@\nCorrect Count: %d" = "%@\nDoğru Sayısı: %d";
+
+"%@\nTotal Question: %d" = "%@\nToplam Soru: %d";//--------
+
+"Here is your quiz report" = "Here is your quiz report";
+
+"Complete" = "Tamamla";//-----------
+
+"There is no data for this Quiz" = "Bu quiz icin henüz herhangi bir bilgi yoktur";//-------------
+
+"Your results saved and quiz owner can see it now" = "Cevaplarınız kaydedildi, quiz sahibi artık sonuçlarınızı görebilir";
+
+"You can use the app through Guest User, but you need to login via Google or Facebook accounts to be able to save your quizzes" = "Uygulamayı misafir olarak kullanabilirsiniz fakat sınavları kaydedip öğrencilerinize göndermek için Google yada Facebook hesabınızdan giriş yapmalısınız";
